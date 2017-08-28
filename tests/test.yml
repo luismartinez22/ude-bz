@@ -10,7 +10,7 @@ scenarios:
   POST_/viewProd:
     think-time: 1s
     requests:
-    - url: "https://eytd7kn5ik.execute-api.us-west-2.amazonaws.com/prod/view"
+    - url: "https://xkldexuym6.execute-api.us-west-2.amazonaws.com/prod/view"
       headers:
         Content-Type: 'application/json'
       method: POST
